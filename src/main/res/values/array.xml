@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+    <string-array name="Burclar">
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Yay</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+    </string-array>
+
+    <string-array name="BurcTarih">
+        <item>21 Mart - 20 Nisan</item>
+        <item>21 Nisan - 21 Mayıs</item>
+        <item>22 Mayıs - 22 Haziran</item>
+        <item>23 Haziran - 22 Temmuz</item>
+        <item>23 Temmuz - 22 Ağustos</item>
+        <item>23 Ağustos - 22 Eylül</item>
+        <item>23 Eylül - 22 Ekim</item>
+        <item>23 Ekim - 21 Kasım</item>
+        <item>22 Kasım - 21 Aralık</item>
+        <item>22 Aralık - 21 Ocak</item>
+        <item>22 Ocak - 19 Şubat</item>
+        <item>20 Şubat - 20 Mart</item>
+    </string-array>
+    <string-array name="BurcGenelOzellikler">
+	<item>\tKoç Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Mars\n\n
+\tElementi: Ateş\n\n
+\tUğurlu günü: Salı\n\n
+\tUğurlu sayısı: 9\n\n
+\tUğurlu taşı: Pırlanta\n\n
+\tEn belirgin özelliği: Cesaret\n\n
+\tEn büyük emeli: Zafer\n\n
+\tEn büyük hatası: Acelecilik\n\n
+\tZayıf noktaları: İç güdüsellik, sabırsızlık, saflık\n\n
+\tAşkta uyumlu burçlar: Aslan, Yay\n\n
+\tEvlilikte uyumlu burçlar: Aslan, Yay\n\n
+
+\tKoç, Burçlar kuşağının ilk burcudur. Hareketli ve enerjik yapılarıyla tanınırlar. Ben egoları çok fazla gelişmiştir. Olaylar karşısında coşkularını gizleyemezler. Merak ettikleri konularda olabildiğince yaratıcılardır. Konuşmaları abartılıdır, bazen gerçekleri değiştirerek anlatırlar. Kavrama yetenekleri fazla olan Koç’lar yaşam sahnesinde her zaman başrolde olmayı tercih ederler. Onlar için hareket neredeyse bir bağımlılık durumudur. Doğuştan gelen önderlik özellikleriyle Koç insanları başarmaya odaklıdır ve hırsları yüzünden çoğunlukla sonuçları düşünmeden hareket ederler. Onlar, ıvır zıvır işlerle uğraşmayı genelde başkalarına bırakır ve çevresindekilere hükmederler.\n\n
+
+\tKoç Burcu Erkeği\n\n
+\tRekabetçi, dayanıklı, cesur ve öncüdür. Kendine güveni tamdır ve toplum içinde kolayca fark edilir. En nefret ettiği şey, başkalarından emir almaktır. Macerayı sever ve başkalarının kendisinden yardım istemesine bayılır. İnsanları zor durumdan kurtarmayı ve çaresiz kadınlar için savaşmayı çok sever. Kendine güvenen kadınlardan hoşlansa da aslında istediği kümesteki tek horozun kendisi olacağı bir haremdir. İlişkide her zaman son sözü söyleyen kişi olmak ister. Eğer onu kendinizden uzaklaştırmak istiyorsanız evlilikten bahsetmeniz yeterlidir.\n\n
+
+\tKoç Burcu Kadını\n\n
+\tHareketli ve enerjik Koç kadını, değişiklikleri ve yenilikleri çok sever. Ateşli bir aşıktır. Cinsel konularda inisiyatifi ele alır ve dizginleri elinde tutar. Eğer karşısındakinin doğru kişi olduğuna inanıyorsa , bir erkeğin ondan kurtulma şansı hiç yoktur. İş hayatında cömert ve çalışkandır. Pratik bir zekaya sahiptir. Kısacası kafası çok hızlı çalışır, ancak başarılı olabilmesi için birinin onun adına işleri organize etmesi gerekebilir. Koç kadını her zaman bakımlıdır. Makyaj malzemelerine ve cilt bakım ürünlerine asla “hayır” diyemez. İlgi çekmeyi çok sevdiğinden gösterişli takılar ve aksesuarlar kullanır.\n\n
+
+</item>
+        <item>
+\tBoğa Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Venüs\n\n
+\tElementi: Toprak\n\n
+\tUğurlu günü: Cuma\n\n
+\tUğurlu sayısı: 6\n\n
+\tUğurlu taşı: Zümrüt\n\n
+\tEn belirgin özelliği: Dayanıklılık\n\n
+\tEn büyük emeli: Ün\n\n
+\tEn büyük hatası: İnat\n\n
+\tZayıf noktaları: Hantallık, kıskançlık, tatlı düşkünlüğü\n\n
+\tAşkta uyumlu burçlar: Yengeç, Başak, Oğlak\n\n
+\tEvlilikte uyumlu burçlar: Yengeç, Başak, Oğlak\n\n
+
+\tBoğa burcu, sabırlı, sorumluluk sahibi, burçlar içinde en insancıl ve sıcakkanlı olan burçtur. Doğa ona bütün insancıl davranışları bahşetmiştir. Boğa burcu aşkın yıldızı olan Venüs tarafından yönetilir. Gezegenin etkisi, onun sanatsal başarılarından çok, sanat eserinin hem maddi hem manevi değerlerini tahmin ve takdir edebilme gücünde görülür. Boğa burcunda olanlar mantığından çok duyguları tarafından yönetilirler. Büyük başarıları kendini duygusal olarak bir şeye bağlı hissettiğinde kazanırlar. Bu durum karşı cinse olan tutumunda da etkili olur. Boğa burcu genellikle sabit fikirleri temsil eder. Hayatı değişmez bir siyah beyaz resim gibi görür. Bunun yanında dayanıklılık ve sabır başarısının temelini oluşturur. Konuşkan, çok sesli ve düşüncelerini açıkça belli eden bir olan Boğa’lar, bir kararı almadan önce enlenesine boylamasına iyice düşünür ancak bir karar verdikten sonra onu kimse durduramaz.\n\n
+
+\tBoğa Burcu Erkeği\n\n
+\tBoğa burcu erkekleri inatçı, çalışkan, hareketli ve sakin yapısıyla dikkatleri üzerine toplar. Girdiği bir ortamda onu farketmemeniz imkansızdır. Boğa burcunun inatçı tarafı ile karşılaşmamanız için onun suyuna giderek bazı konuları halletmeniz gerekecektir. Çünkü sinirlendiği zaman inadından sizin düşüncelerinize asla kulak vermeyecektir. Boğa burcu erkekleri evine bağlı ve uyumlu bir eş olurlar. Çocukları ile bağları oldukça sıcak olmasına rağmen aynı zamanda disiplini de elden bırakmayı sevmez. Fiziksel olarak sağlıklı ve yapılı olan bu burcun erkekleri, lüksten ve konfordan da oldukça keyif alır. Cömerttir ama savurgan değildir. En sadık dostlar bu burcun erkeklerinden çıkar.\n\n
+
+\tBoğa Burcu Kadını\n\n
+\tBoğa burcu kadını sessiz, sakin ve mağrur bir duruşa sahiptir. Gerçekçi ve otoriter bir tavrı vardır. Girdiği ortamlarda duruşu ile dikkatleri üzerine çeker. Hırslıdır ve düşlediği bir şeye ulaşmak için elinden geleni yapar. Alışkanlıklarına bağlıdır ve sadakatsizlikten hoşlanmaz. Boğa burcu kadını duygusal açıdan da oldukça hassas ve kırılgandır. Birine değer verdiği zaman fedakarlık yapmaktan kaçınmaz. Bir işe başladığı zaman yarım bıraktığı görülmemiştir. Maddi anlamda rahatlık onun için son derece önemlidir. Bu şekilde kendini güvende hisseder. Gönül ilişkilerinde saygı ve sevgi onun için çok önemlidir. Boğa burcu kadınları sadık ve ailesine bağlı bir eş olurlar.\n\n
+</item>
+
+        <item>
+\tİkizler Burcu\n\n
+\tikizler Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Merkür\n\n
+\tElementi: Hava\n\n
+\tUğurlu günü: Çarşamba\n\n
+\tUğurlu sayısı: 5\n\n
+\tUğurlu taşı: Akik ve inci\n\n
+\tEn belirgin özelliği: Sezgi\n\n
+\tEn büyük emeli: Yazarlık\n\n
+\tEn büyük hatası: Gevezelik\n\n
+\tZayıf noktaları: Tutarsızlık, egoistlik, umursamazlık\n\n
+\tAşkta uyumlu burçlar: İkizler, Aslan, Terazi, Kova\n\n
+\tEvlilikte uyumlu burçlar: İkizler, Aslan, Terazi, Kova\n\n
+
+\tGüneş, bu burca gıpta edilecek derecede zeka vermiştir. İkizler civa gibi yerinde duramaz. Değişken ve tahmin edilemeyen bir karakteri vardır. İkizler burcu insanları hızlı düşüncelerine uygun ve çabuk hareket ederler. Aynı anda birkaç işi birden yapabilirler. Onların adapte olamayacakları iş yoktur. Karşısındakileri ikna etmeyi becerir ve her şeyi formüle etmeyi bilirler. Herhangi bir konuda bilgileri az bile olsa, bunu gizlemeyi çok iyi başarırlar. Kişilikleri ve yaşam tarzları onların tek ifadesidir. Cazibeli, liderlik yeteneğine sahip, neşeli, gayretlerini endişeli ve sorunlu olduklarında bile kaybetmeyen iyimser insanlardır. Kendi paralarına karşı tutumlu davranmalarına karşın, başkalarının paralarını kolayca harcayabilirler.\n\n
+
+\tikizler Burcu Erkeği\n\n
+\tBu burcun erkeği kolay kolay ele geçen, bağlanan bir tip değildir. Neşeli, zeki, konuşkan, nazik, cana yakın bir insan olduğu için çok beğenilir. Eğer kıskanç bir yapınız varsa onunla yaşayacağınız ilişki sizi çok zorlayabilir. İnce zekası ve insanları kolayca anlayıvermesi sayesinde de herkese nasıl davranacağını bilir. Pratiktir ve sorunlar karşısında kolayca çözüm üretebilen bir yapısı vardır. İkizler erkeği değişkendir ve bazen onu anlamak zor olabilir. Çocuksu tavırlarıyla sürekli ilgi bekleyen bir yapısı vardır. Özgürlüğüne düşkündür, kısıtlanmaktan ve emir almaktan hoşlanmaz. Duygusal anlamda fazla hassas değildir ve aşık olması zordur.\n\n
+
+\tikizler Burcu Kadını\n\n
+\tİkizler burcu kadını hareketli, canlı, enerjik ve çekicidir. Fakat bir o kadar da kararsızdır ve sürekli fikir değiştirir. Tıpkı bu burcun erkeği gibi onu da anlamak kolay değildir, çünkü çift karakterli olmak gibi bir özelliği vardır. Özellikle seyahat etmek, yeni yerler görmek ve yeni insanlarla tanışmak ona çok büyük keyif verir. Farklılıktan hoşlanır. Bağımsızlığına çok düşkün olduğu için de evde oturup ailesiyle yetinecek bir kadın değildir. Meslek hayatında başarılı olmayı çok önemser. Zekası, tatlı dili ve neşesi sayesinde en erişilmez sanılan erkekleri bile kendine bağlayıp peşinden koşturabilir. İkili ilişkilerde oldukça fedakar ve iyi bir partnerdir.\n\n
+</item>
+
+        <item>
+\tYengeç Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Ay\n\n
+\tGrubu: Su\n\n
+\tUğurlu günü: Pazartesi\n\n
+\tUğurlu sayısı: 2\n\n
+\tUğurlu taşı: Yakut, aytaşı\n\n
+\tEn belirgin özelliği: Sadakat\n\n
+\tEn büyük emeli: Maddi güven\n\n
+\tEn büyük hatası: Dikkatsizlik\n\n
+\tZayıf noktaları: İnatçılık, saldırganlık, limoni tabiat\n\n
+\tAşkta uyumlu burçlar: Boğa, Akrep, Kova, Balık\n\n
+\tEvlilikte uyumlu burçlar: Boğa, Akrep, Balık\n\n
+
+\tYengeç insanları duygusal yönden çok hassastırlar ve onlar için hissettikleri önemlidir. Duyguları çok kolay yaralanır, yanlış bir kelime ile derinden sarsılır ve yuvalarına çekilirler. Hatta haklı eleştirileri bile çok zor kabullenirler. Bu burcun insanları koruyucu ve himayecidirler. Bu daha çok ev ve aile içinde yoğunlaşır Bağlılıkları ile ünlüdürler, sadıktırlar . Yengeç insanı için hayat ancak ailesini, evini veya sevdiklerini güvenceye aldıktan sonra mükemmeldir. Para konusunda tutumlu insanlardır ve her zaman acil durumlar için bir kenarda para bulundururlar. Yengeç insanının iç dünyası karmaşık ve geniştir, bazen çok güçlü görünürler, bazen de bir çocuk gibi güçsüz olurlar. Bu burcun insanları genelde iyi niyetlidirler . Fakat Ay’ın hareketlerine bağlı olarak çok değişken olabilirler. Onların duygusal yönünü ve hislerini veya genelde yapılarını anlamak zordur.\n\n
+
+\tYengeç Burcu Erkeği\n\n
+\tYengeç burcu erkeklerinin nazik, dürüst, ağır başlı ve mağrur bir duruşu vardır. Duygusal yapısı oldukça hassastır. İlişkilerinde en önemli şey sevgi ve saygıdır. Keskin ve pratik bir zekaya sahip olan bu burcun erkeklerinin pratik bir zekası vardır. Olayları kolaylıkla çözümleyebilirler. Sevdikleri zaman tam anlamıyla sever ve kolay kolay vazgeçmezler. İlişkilerinde de partnerlerine fazlasıyla sadık olurlar. Bu burcun erkeklerinin en hoşlanmadığı şey kendilerine yalan söylenmesidir. Aile ve ev yaşantısına fazlasıyla düşkündür. Yengeç burcu erkeği su grubundandır. Bu nedenle suyu çok sever. Her gün banyo yapmaktan hoşlanır, temizliğine çok önem verir. Denize girmek ve su sporlarıyla uğraşmak onun için bir tutkudur.\n\n
+
+\tYengeç Burcu Kadını\n\n
+\tYengeç burcu kadını hoş bir mizaca sahiptir. Evcimen, sıcak kanlı, dürüst ve iyi niyetlidir. Bu burcun kadınları evlerine, ailelerine ve geleneklerine oldukça bağlı olurlar. İdeal anneler genellikle bu burcun kadınlarından çıkar. Duygusal anlamda oldukça hassastırlar ve sezgileri kuvvetlidir. Etraflarındaki insanların onlara karşı niyetlerini çok kolay fark edebilirler. Yengeç burcu kadınları çok kolay incinip kırılabilir. Kendisini güçlü hissetmek için maddi bir güvencesinin olmasını ister. Eleştirilmeyi pek sevmeyen bu burcun kadınları, ilişki ilişkilerinde partnerlerine fazlasıyla sadık, fakat bir o kadar da kıskanç olurlar. Yengeç burcu kadınları romantik oldukları kadar maceraya da düşkündürler.\n\n
+</item>
+
+        <item>\tAslan Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Güneş\n\n
+\tElementi: Ateş\n\n
+\tUğurlu günü: Pazar\n\n
+\tUğurlu sayısı: 1 ve 4\n\n
+\tUğurlu taşı: Sarı zafir\n\n
+\tEn belirgin özelliği: Cömertlik\n\n
+\tEn büyük emeli: Zirveye çıkmak\n\n
+\tEn büyük hatası: Övünmek\n\n
+\tZayıf noktaları: Egoizm, gurur, hakimiyet hırsı\n\n
+\tAşkta uyumlu burçlar: Koç, İkizler, Yay\n\n
+\tEvlilikte uyumlu burçlar: Koç, İkizler, Yay\n\n
+
+\tAslan kişiliğinde canlılığı, yaşam gücünü, ihtirası ve asaleti temsil eder. Asla kendisinden şüpheye düşürmeyecek güçlü bir yapıya sahiptir ve son derece sıcak kalplidir. Bunun yanında kibirli, küstah ve kendini beğenmiş de olabilir. Eğer bu kötü huyları artarsa bencil ve çekilmez bir krala dönüşebilir. Organizasyon gücü çok fazladır. İsteklerini başkalarına kabul ettirmek, onlar için olmazsa olmazdır. Aslanlar genellikle sevimli ve iyimser kişilerdir. Kendilerine karşı hatalı davransanız bile, olgun bir şekilde tepki verirler. Ancak sabırlarını taşırırsanız, sert bir tavırla karşılaşabilirsiniz. Aslan insanları aile kurmaya karar verirlerse, dürüst, iyi kalpli ve sevgi dolu bir eş olurlar.\n\n
+
+\tAslan Burcu Erkeği\n\n
+\tAslan burcu erkeği, ılımlı, sevecen, zeki, romantik ve pratik tavırlarıyla dikkat çeker. İkili ilişkilerde mükemmel bir partnerdir. İltifatlardan ve övgülerden çok keyif alır. Ateş grubundan olduğu için sinirlendiğinde çevresine yakıcı bir etki gösterir. O, şefkatle koruyan, hassas bir şekilde seven, şövalye ruhlu bir sevgilidir. Gösterişten hoşlanır ve beğendiği kişiyi tavlamak için lüks hediyeler almaktan kaçırmaz. Bu burcun erkeği dostane tavırları ve girişken yapısıyla çok fazla dost edinir. Evlilikten hoşlanır ve evine bağlıdır. Çocuklarına düşkün ve sevecen bir baba olur.\n\n
+
+\tAslan Burcu Kadını\n\n
+\tAslan kadını, canlı, akıllı ve zariftir. Rol yapmayı ve farklı görünmeyi sever. Bu ona oyun gibi gelir. İnsanları dişiliğinden ziyade sempatik yaklaşımı ve hoş sohbetiyle etkiler. Değişik insanlarla tanışmaktan ve dostluk kurmaktan fazlasıyla zevk alır, ancak herkesle yakınlaşmaktan hoşlanmaz. Aslan burcu kadını bağımsızlığına düşkündür. Evine bağlı ve eşine sadıktır. Zaman zaman içindeki emretme duygusu nedeniyle oldukça sert ve disiplinli bir yapı sergileyebilir. Yalandan nefret eder. Hislerine kapılmadığı sürece kafasını çok iyi kullanan ve her istediğini elde eden Aslan kadını çocukları söz konusu olduğunda tüm yelkenlerini suya indirebilir.\n\n
+</item>
+
+        <item>\tBaşak Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Merkür\n\n
+\tElementi: Toprak\n\n
+\tUğurlu günü: Çarşamba\n\n
+\tUğurlu sayısı: 5\n\n
+\tUğurlu taşı: Koyu mavi zafir\n\n
+\tEn belirgin özelliği: Temizlik, titizlik\n\n
+\tEn büyük emeli: Toplum tarafından beğenilmek\n\n
+\tEn büyük hatası: Çekingenlik\n\n
+\tZayıf noktaları: Titizlik, hastalığa karşı abartılı korku\n\n
+\tAşkta uyumlu burçlar: Boğa, Oğlak\n\n
+\tEvlilikte uyumlu burçlar: Boğa, Oğlak\n\n
+
+\tBaşak burcu insanının ayakları yere sağlam basar. Bazı insanların aklını başından alan durumlar Başak için olağan karşılanabilir. İşlerini çok titizlikle yaparlar ve bu arada detaylara da çok dikkat ederler .Bu burcun insanlarının ilginç bir yönü vardır ; Onlar ya düzeni sağlarlar veya karışıklığa sebep olurlar . İkisinin ortasını bulmaları zordur. Başak burcu insanlarının pratik yönleri dikkat çekicidir . Hayır demesini bilen insanlardır. Sağlık yönünden evhamlı ve hastalıktan korkmaya müsait insanlardır. İyi yemek yemekten ve iyi giyinmekten hoşlanırlar. Başak burcu tek eşlilikten yanadır. Biriyle birlikte olmak istediğinde hem kendisine hem de karşısındakine zaman tanır. Flörtlerin üstadı olarak bilinir.\n\n
+
+\tBaşak Burcu Erkeği\n\n
+\tBaşak burcu erkeği, inatçı, detaycı, titiz ve mantıklı bir yapıya sahiptir. Bakımlı ve hoş görünmek ister. Kendisine önem verir. Para konusunda kendisine ve sevdiklerine para harcamaktan çekinmez. Ancak zaman zaman gereğinden fazla tutumlu hatta cimri bile olabilir. Temizlik onun için çok önemlidir. Etrafta fazla eşya görmek istemez. Sakin ve sadelikten yanadır. Aynı şey ilgilendiği karşı cins için de geçerlidir. Daha çok sade ama şık tarzları beğenir. Karşı cinste nezaket ve kibarlık arar. Aşık olmaktan korkar ama sevdiği zaman da sadık bir erkek olur. Sevgilisi onun aynı zamanda en yakın dostudur. Ancak zaman zaman ruh halinin değişmesi ve düşüncelerinin netleşmemesi durumunda çevresindekileri önemsemeden bencilleşebilir.\n\n
+
+\tBaşak Burcu Kadını\n\n
+\tBaşak burcu kadını sorumluluk sahibi, idealist, hırslı, nazik, detaycı ve hassastır. Titizdir ve en ufak ayrıntılara dikkat eden yapısıyla dikkat çeker. Dışarıda olmaktan çok evinde vakit geçirmeyi tercih eder. Sorumluluklarını yerine getirmekten kaçınmaz. Pratik çözümleri ile birlikte yaşadığı insanların hayatını kolaylaştırır. Adalet ve merhamet duyguları fazlasıyla gelişmiştir. Mükemmeliyetçidir. Yaşadığı ilişkiye ve partnerine sahip çıkar. Bir başak kadınını yıldırmanız zordur. Onun kendisini güvende hissetmesi için kontrolün elinde olması gerekir. Mizah anlayışı oldukça gelişmiştir. Alıngan yapısına dikkat etmek gerekir. Kin tutmaz ama darıldığı kişiyi de kolayca affetmez.\n\n
+</item>
+
+        <item>\tTerazi Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Venüs\n\n
+\tElementi: Hava\n\n
+\tUğurlu günü: Cuma\n\n
+\tUğurlu sayısı: 6\n\n
+\tUğurlu taşı: Opal\n\n
+\tEn belirgin özelliği: Olgunluk, saygı, zariflik\n\n
+\tEn büyük emeli: Mükemmel dostluk\n\n
+\tEn büyük hatası: Kendini beğenme\n\n
+\tZayıf noktaları: Gösterişten hoşlanmak\n\n
+\tAşkta uyumlu burçlar: İkizler, Kova\n\n
+\tEvlilikte uyumlu burçlar: İkizler, Kova\n\n
+
+\tTerazi burçları genellikle iyi huylu, cazibeli, sempatik, nazik, hoşgörülü, akıllı, çalışkan sabırlı olurlar. Genellikle diyoruz çünkü bu burcun ideal portresi çok çabuk kavgacı, asık suratlı, inatçı, tembel, boşboğaz ve sabırsız olan tersine dönüşebilir. Kişisel tartışmalardan çekinir. Çabuk karar verme konusunda biraz zayıftır. Karar alacağı konular üzerinde daha çok durup, düşünmek ister. İlişkilerinde de değişik özellikler gösterebilir. Bugün burada sizinle sıkı fıkı iken başka yere gidince unutup oradakiler ile kaynaşabilir. Geri dönünce ilişkiye kaldığı yerden devam eder. İlişkilerinde her zaman bağlı kalmayabilirler. Ama tam bir birliktelik yakaladıklarında açık ve dürüst davranırlar. Çok sevdiklerinde tutku dolu bir aşkla bağlandıklarında ise burçlar kuşağının en sadık ve ateşli burcu olabilirler.\n\n
+
+\tTerazi Burcu Erkeği\n\n
+\tTerazi burcu erkeği kararsız, duygusal, romantik, iyimser ve yumuşak huylu yapısıyla dikkat çeker. Sevilen ve aranan bir dosttur. Karşılıklı güvene önem verir. Meraklı ve öğrenmeye açık bir kişiliği vardır. İyi bir konuşmacıdır ve bu özelliği ile çevresindeki insanları kolaylıkla etkileyebilir. Sakinlik ve huzur terazi burcu erkeği için önemlidir. Ani duygusal çıkışlardan uzak durur. Bakımlı olmayı seven bu burcun erkeği, temizliğe de fazlasıyla önem verir. Duygusal yönü mantığına göre daima ağır basar. İkili ilişkilerde karşı cinste özellikle zarafet, akıl, mantık ve güzellik arar. Sert mizaçlı kadınlar ona hitap etmez. Aşık olduğu zaman ateşli ve sadık bir partnerdir. Sadakat onun için çok önemlidir. İlişkileri uzun önemlidir.\n\n
+
+\tTerazi Burcu Kadını\n\n
+\tTerazi burcu kadını cazibeli, güzel, estetik, yaşam dolu ve uyumlu yapısıyla dikkat çeker. İnsanlarla fikir alışverişinde bulunmaktan keyif alır. İyi huyludur. Kendine has bir tarzı vardır. Modayı takip etmekten ziyade, kendine yakışanı kullanmayı tercih eder. Maddi değerlere fazlasıyla önem verir. Ona göre birçok güzelliğe ulaşmak için maddi güç bir araçtır. Zora gelmeyi sevmez. Her şeyin hazır bir şekilde ona sunulmasını ister. Ağır işlerle uğraşmak yerine işlerin estetik boyutuyla ilgilenmek onu daha mutlu eder. Terazi burcu kadını olayları kendi duygularına göre yorumlar. Bu nedenle doğru bildiğini uygulamaktan çekinmez. Özgürlüğüne düşkündür. Karşı konulmaz bir cazibesi vardır. Sevildiğine inanırsa fazlasıyla sadık ve şehvetli bir partner olacaktır.\n\n
+</item>
+
+
+        <item>\tAkrep Burcu\n\n
+\tAkrep Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Mars\n\n
+\tElementi: Su\n\n
+\tUğurlu günü: Salı\n\n
+\tUğurlu sayısı: 9\n\n
+\tUğurlu taşı: Topaz\n\n
+\tEn belirgin özelliği: Karanlık\n\n
+\tEn büyük emeli: Zenginlik\n\n
+\tEn büyük hatası: Merhametsizlik\n\n
+\tZayıf noktaları: Benmerkezcilik, kibir\n\n
+\tAşkta uyumlu burçlar: Yengeç, Balık\n\n
+\tEvlilikte uyumlu burçlar: Yengeç, Balık\n\n
+
+\tAkrep burçları için hayat bir deney sahasıdır ama yaptığı her şeyi çok ciddiye alır. Amaçlarını kesin çizgilerle belirler. Akrepler yaşama tutkuyla bağlıdır. Yaşama güçleri kadar fiziksel güçleri de kuvvetlidir. Her an patlamaya hazır yanardağ gibidirler. Akrep burçlarının güçleri gözlerinden okunur. Mimiklerini kontrol altında tutsalar bile bakışları ile sevgilerini ya da nefretlerini aktarabilirler. Kızgın bir Akrep burcunun gözleri bir Aslan’ı bile yolundan döndürebilir. Duygularına kapılırlarsa tehlikeli olabilecekleri için hareketlerini sürekli şekilde mantık kontrolü altında tutmaya çalışmalıdırlar. Bu burçtan en iyi ve en kötü insanlar çıkabilir. Yaşadığı hayatı kontrolü altında tutmak ister. Yapılan iyilikleri de kötülükleri de unutmazlar. Cinsellik yaşamlarında önemli bir yer tutar.\n\n
+
+\tAkrep Burcu Erkeği\n\n
+\tAkrep burcu erkeği arzulu, kararlı, duygusal ve duyarlı yapısıyla dikkat çeker. Neşeli ve hareketli gibi görünse de karamsar bir hali vardır. Hayatın zevklerine aşırı düşkündür. Özellikle yemeğe, alkollü içeceklere ve cinselliğe karşı zaafı vardır. Kimseye kolay kolay güvenmez. Maddiyata çok önem verir. Maddi anlamda edinilen gücün güven verdiğini düşünür. Eleştirmeyi sever, tenkit edinmekten hoşlanmaz. Açık sözlü ve güvenilirdir. Dostlarına çok önem verir. Bu burcun erkekleri çevresindeki insanların kişiliklerine dair tüm detayları anlayıp, yorumlayabilir. Analiz yeteneği gelişmiştir. İkili ilişkilerde oldukça kıskançtır. Eşini aşırı derecede sahiplenir. Evlendiğinde arzulu, tutkulu, sadık ve eşinin tüm isteklerini yerine getirmeye çalışan uyumlu bir eş, sevecen bir baba olacaktır.\n\n
+
+\tAkrep Burcu Kadını\n\n
+\tAkrep burcu kadını cazibeli, azimli, hırslı, akıllı ve sezgileri kuvvetli yapısıyla dikkat çeker. Hoş bir mizacı vardır. Alçakgönüllü ve yumuşak başlı görünmesine karşın, bir o kadar da mağrur ve kibirlidir. Kıskançlık akrep burcu kadınının doğasında vardır. Dostluklar onun için çok önemlidir. Yalandan nefret eder. Doğru bildiği konularda kesinlikle taviz vermez. Cesurdur ve tuttuğunu koparıncaya kadar çabalamaya devam eder. Başarısızlığı hiçbir şekilde kabul etmez. Akrep burcundaki kadınlar çevresine karşı garip bir şüphecilikle yaklaşır ve kolay kolay karşı tarafa güvenmez. Fazlasıyla duygusal olan bu burcun kadınlarının intikam duyguları da çok gelişmiştir Bir ilişkide öncelikle sevgi ve saygıya önem verir. Aşkla sevdiği bir erkekle ömür boyu mutlu olabilir.\n\n</item>
+
+
+        <item>\tYay Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Jüpiter\n\n
+\tElementi: Ateş\n\n
+\tUğurlu günü: Perşembe\n\n
+\tUğurlu sayısı: 3, 5\n\n
+\tUğurlu taşı: Turkuaz\n\n
+\tEn belirgin özelliği: Canlılık\n\n
+\tEn büyük emeli: Şöhret\n\n
+\tEn büyük hatası: Alaycılık\n\n
+\tZayıf noktaları: Megolomanlık, konfor düşkünlüğü\n\n
+\tAşkta uyumlu burçlar: Koç, Aslan\n\n
+\tEvlilikte uyumlu burçlar: Koç, Aslan\n\n
+
+\tİyimser, güler yüzlü, sokulgan, dürüst ve güvenilir olmak bu burcun en belirgin özellikleridir. Kavrama yetenekleri gelişmiş olduğundan becerikli olmalarının da katkısı ile ele aldıkları her işte, özellikle felsefe konularında başarılı olurlar. Özgürlüklerine aşırı düşkün, patavatsızlık derecesinde pratik insanlardır. Bazen hiç düşünmeden, akılsızca risklere atılırlar. Bilmedikleri şeyleri araştırıp, keşfetmeyi severler. Çok yönlü insanlardır ve çocuklara çok düşkün olduklarından çocuklarıyla dostluğa dayanan bir ilişki kuran ebeveynler olurlar. Özgürlüklerine aşırı düşkün, patavatsızlık derecesinde pratik insanlardır. Yayların yaşam çerçeveleri herhangi bir şekilde kısıtlandığı zaman, içsel bir biçimde alt üst olurlar. Akılsızca risklere atılırlar. Yayların hayatı yeniliklere merakları ile karakterize edilebilir. Bilmedikleri şeyleri araştırıp, keşfetmeyi severler. Yaylar çok yönlü ve aynı anda ilgilenebilecekleri birkaç konu olduğunda mutlu olan kişilerdir.\n\n
+
+\tYay Burcu Erkeği\n\n
+\tBu burcun erkekleri meraklı, cana yakın ve neşeli yapısıyla dikkat çeker. Dost canlısıdır ve en nefret ettiği şey hareketsizliktir. Bilgili ve kültürlü kadınlarla birlikte olmaktan keyif alır. Bir kadından hoşlandığında ilgisini yoğun bir şekilde belli etmekten çekinmez ve severse gerçekten bağlanır. Cömertliğiyle tanınan bu erkeğin harcamalarındaki savurganlık zaman zaman size hayrete düşürebilir. Çocuklara çok düşkün olduğundan evlilikten korkmaz ve sevecen bir baba olur.\n\n
+
+\tYay Burcu Kadını\n\n
+\tYay burcu kadını özgürlüğüne düşkün, emir almaktan hoşlanmayan alımlı, espritüel, duyarlı ve akıllı yönleriyle dikkat çeker. Hassas ve kırılgandır. Zekidir ve kavrama yeteneği kuvvetlidir. Birden fazla konuya ilgi duyabilir ve hepsiyle ilgili bilgi sahibi olabilir. Ayrıca sıkılgandır ve huzursuzluk olan ortamlarda fazla bulunmaz. Dostlarına fazlasıyla önem verir ve fedakardır. Seyahat etmeyi, yeni yerler görmeyi ve yeni insanlarla tanışmayı sever. Maddi anlamda güçlü olmak ister. Karşı cinsle ilişkisinde temkinli adım atar ve özgürlüğüne düşkün olduğundan evlilik ona uzak bir kavramdır.\n\n</item>
+
+        <item>\tOğlak Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Satürn\n\n
+\tElementi: Toprak\n\n
+\tUğurlu günü: Cumartesi\n\n
+\tUğurlu sayısı: 2 ve 8\n\n
+\tUğurlu taşı: Lal\n\n
+\tEn belirgin özelliği: Dik başlılık\n\n
+\tEn büyük emeli: Yükselmek\n\n
+\tEn büyük hatası: Agresiflik\n\n
+\tZayıf noktaları: Abartılı titizlik, her şeyi ciddiye alma\n\n
+\tAşkta uyumlu burçlar: Boğa, Başak\n\n
+\tEvlilikte uyumlu burçlar: Boğa, Başak\n\n
+
+\tBu burçtan olanlar genellikle çalışkan, güvenilir, kararlı, disiplinli, azla yetinmesini bilen ve düzenli insanlardır. Genellikle iyi birer eş ve anne-baba olurlar. Geleceği ayrıntılı bir biçimde planlama istekleri nedeniyle zaman zaman kuruntulara kapılabilir, hatta depresyona girebilirler. Her zaman işleri başlarından aşkın olduğundan insanlarla zor ilişki kurarlar ve çok fazla sosyal oldukları söylenemez. Yine de çalışkan ve özverili tavırlarıyla insanların saygısını kolayca kazanırlar. Genellikle iyi bir sırdaş olurlar, ancak başkalarının başarısızlıklarını abartma konusunda bazen sınırları aşabilirler.\n\n
+
+\tOğlak Burcu Erkeği\n\n
+\tHırslı ve çalışkan bir erkektir. Çalışmazsa mutlu olamaz. Geceleri ofiste çok zaman geçireceğini bilmeli, bunu kabul edemeyecekseniz en baştan ondan uzak durmalısınız. Oğlak erkekleri gurur duyabilecekleri bir sevgili ararlar ve başarılı kadınlardan hoşlanırlar. Hatta onların “mükemmel” kadının peşinde olduklarını söylemek abartılı olmaz. Eğer patronuyla ya da iş hayatındaki rakipleriyle tanıştırırken gurur duyabileceği biri değilseniz yanınızda pek kalmayacaktır. Espri duygusu çok gelişmiştir ve bu erkek sizi yataktayken bile güldürebilir. Eğer siz de onu eğlendirebilir ve sıkıntısını dağıtmayı başarabilirsiniz size bağlanması hiç zor olmayacaktır.\n\n
+
+\tOğlak Burcu Kadını\n\n
+\tOğlak kadınının en belirgin özellikleri hırslı yapısı, evcimen tavırları, çalışkanlığı ve dürüstlüğüdür. Her zaman kendinden emin görünür ve en yakınındakilere bile kolay kolay güvenemez. Çevresindeki insanlara karşı mesafeli tavırlar sergiler, nezaket sınırlarını asla aşmaz. İş konusunda iddialı ve hırslıdır. Aşk konusunda ise kalbinden çok mantığıyla hareket eder ve temkinli adımlar atar. Sadık bir eş ve sevecen bir anne olur. Evliliği bir meslek gibi ele alır ve planlar. Aşırı sahiplenme güdüsü nedeniyle zaman zaman çekilmez olabilir. O, bir işkoliktir. Bir karar verip yolunu belirlediğinde, er yada geç oraya ulaşır. Çalışıyorsa, iş kimliği, kadın kimliğinin önüne geçebilir. Sorunlar, yükseklere tırmanmak için onu kamçılar. Kader, Oğlak kadınlarına, biraz kötü davranabilir. Ama sırtlarına ne kadar yük verilirse, o kadarını kaldırabilir güçtedir, cefakardır. İstikrar sağlamak için ölesiye bir gayret içindedir.\n\n
+
+</item>
+
+        <item>\tKova Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Satürn (Uranüs)\n\n
+\tElementi: Hava\n\n
+\tUğurlu günü: Pazar\n\n
+\tUğurlu sayısı: 4 ve 8\n\n
+\tUğurlu taşı: Ametist, yeşim\n\n
+\tEn belirgin özelliği: İşbirliği\n\n
+\tEn büyük emeli: Yükselmek\n\n
+\tEn büyük hatası: Başkalarına hayranlık duyma\n\n
+\tZayıf noktaları: Aldırmazlık, soğukluk\n\n
+\tAşkta uyumlu burçlar: İkizler, Yengeç, Terazi\n\n
+\tEvlilikte uyumlu burçlar: İkizler, Yengeç, Terazi\n\n
+
+\tKova insanları, değişimi, yenilik ve macerayı sever. Arkadaş canlısı ve uyumlu olsalar da tepkilerini kestirmek zordur ve ne yapacaklarını önceden tahmin etmek pek mümkün olmaz. Onlar için maddi değerlerin hiçbir anlamı yoktur. Tamamen dostluğun egemen olduğu bir dünya özlemi içindedirler. Aşk, bu burç için ideallerinden sonra gelir. Aşksız bir dünyada daha az karmaşanın olacağını düşünen Kovaların sayısı hiç az değildir. İkili ilişkilerde hoşgörülüdürler ve kıskançlıklarını dizginleyebildikleri sürece kalp kırmazlar.\n\n
+
+\tKova Burcu Erkeği\n\n
+\tKova erkeğinin en belirgin özelliği çok yönlü oluşudur. Onun ilgisini çeken fazla şey vardır. En merak ettiği konulardan biri de insanlardır. Bu yüzden, kadın veya erkek, kiminle karşılaşırsa bir süre durup onu incelemek ister. Sizinle tanıştığında da fazlaca ilgilenecektir. Sizinle uzun uzun konuşacak, saçınızdan fikirlerinize kadar her şeyi öğrenmeye çalışacaktır. Bu size ümit vermesin çünkü kısa süre sonra bir kadınla da aynı şekilde ilgilenecektir. Çalışkan ve neşeli bu erkekler duygularını kolay kolay belli etmezler. Her anlamda mükemmeliyetçidirler ve zor beğenirler. Neşeli kadınlardan hoşlanırlar. İkili ilişkilerinde iyi bir sırdaş ve tutkulu bir aşık olurlar.\n\n
+
+\tKova Burcu Kadını\n\n
+\tBecerikli, değişken, kararlı ve özgürlüklerine düşkün kadınlardır. Çevresi tarafından sevilen ve aranan kişilerdir. Dostluğa fazlasıyla önem verirler. Akılcı ve pratik olurlar. İlişkide kendisini kısıtlayan erkeklerden hiç hoşlanmazlar ve karşısındaki erkekten dürüstlük beklerler. Çünkü kendileri de açık sözlü ve gayet nettir. Kova kadınları duygusal anlamda çok hassastır ve iyi bir partner olur. Girdiği bir ortamda kıyafetleriyle de kendini hemen belli eder. Çünkü stili farklıdır ve klasik giyinmesini hiç sevmez. Kova burcu kadınının doğuştan gelen bir insancıl yanı vardır. Kova burcu kadını için en büyük mutluluk, başkalarına iyilik yapmak ve onları mutlu etmektir. Kova burcu kadınından çok iyi bir eş olacaktır.\n\n
+</item>
+
+        <item>\tBalık Burcu Özellikleri\n\n
+\tYönetici Gezegeni: Jüpiter (Neptün)\n\n
+\tElementi: Su\n\n
+\tUğurlu günü: Perşembe\n\n
+\tUğurlu sayısı: 7\n\n
+\tUğurlu taşı: Akuamarin\n\n
+\tEn belirgin özelliği: Merhamet\n\n
+\tEn büyük emeli: Rahat yaşamak\n\n
+\tEn büyük hatası: Kendini kötülemek\n\n
+\tZayıf noktaları: Hayalcilik, mantıksızlık\n\n
+\tAşkta uyumlu burçlar: Koç, Yengeç, Akrep, Balık\n\n
+\tEvlilikte uyumlu burçlar: Yengeç, Akrep\n\n
+
+\tBalık insanlarının tek dünyası içinde yaşadığımız ve hayaller dünyasından tamamen ayrı olan gerçeklik değildir. Onlar için hayal ve gerçek arasında sınır yoktur. Balıklar sosyal yaşamda çok karmaşık bir insan görüntüsü verirler. Çünkü insan onların ne zaman ne yapacağını bilemez. Bir yandan iyi, anlayışlı ve yardımsever, diğer yandan çok kararsız, tutarsız, melankolik ve kırılgandırlar. Bir konuda hem çok ateşli davranabilirler hem de çok korkak ve çekingen olabilirler. Kendilerini hep bir maskenin arkasına gizleyip, toplumun hoşuna giden her role girerler. Balık insanlarının her konuda bir fikirleri vardır. Konuşkandırlar. Günlük işlerin rutinliğinden nefret ederler. Mutlu olmak için gelecekte olmasını umut edecekleri yeni şeylere ihtiyaçları vardır.\n\n
+
+\tBalık Burcu Erkeği\n\n
+\tBalık burcu erkeği nazik, uyumlu, iyimser ve hayalperesttir. Umursamaz tavırları olaylardan fazla etkilenmemesine neden olur. Düzenden ve sorumluluk almaktan hoşlanmaz. Başına buyruk yaşamaktan keyif alır. Hayranlık duyduğu kadınlara aşık olur. Duygusal ve anlayışlı yapısı vardır. Sevdiği kadını mutlu etmek için türlü romantizm oyunlarına başvurabilir. Sanatçı ruhludur, güzelliğe çok önem verir. Aradığı kişiyi bulduğuna inanırsa sadık bir eş olur. Aksi takdirde maceralar peşinde koşmaya devam eder. Eşine ve çocuklarına düşkün, sadık ve düşünceli bir eş olabilir.\n\n
+
+\tBalık Burcu Kadını\n\n
+\tBalık burcu kadını, hırslı, tuttuğunu koparan, çekici, sempatik ve iyi huylu tavırlarıyla dikkati çeker. Duygusal ve romantiktir. Evine bağlı bir yapısı vardır. Sezgileri kuvvetlidir. Güzel olan her şeyi sever ve rahatına fazlasıyla düşkündür. Kendisiyle ve başarılarıyla gurur duyar. Bu burcun kadınları ince ruhlu ve sanata düşkündür. Her konuda en iyi olmak ister. İstediği her şeye ulaşmak için elinden gelen çabayı gösterir. Giyime, kuşanma, bakımlı olmaya önem verir. Güzel ve zariftir. Aşk onun için her şeydir. Hayalindeki aşka ulaşmak ister. Sevip sevildiğine inandığı takdirde sadık ve tutkulu bir aşık olacaktır. İlişkisinde fazlasıyla fedakardır. Evliliğe yatkındır. Çocuklarına ve eşine bağlı olur.\n\n
+</item>
+
+
+
+
+
+
+    </string-array>
+</resources>
